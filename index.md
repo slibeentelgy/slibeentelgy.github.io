@@ -44,6 +44,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     </linearGradient>
   </defs>
   <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)" />
-  <text fill="#ffffff" font-size="45" font-family="Verdana" x="50" y="86">SVG</text>
+  <text fill="#ffffff" font-size="45" font-family="Verdana" x="40" y="86">Slibe</text>
   Sorry, your browser does not support inline SVG.
 </svg>
